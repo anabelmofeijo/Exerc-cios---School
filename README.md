@@ -1,2 +1,2 @@
-# Exerc-cios---School
+# Exercícios - School
 Python
